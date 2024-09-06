@@ -1,0 +1,11 @@
+.home_social{
+    position: relative 10px 10px;
+    
+    justify-content: flex-start;
+    margin-top: 100px;
+    margin-left: 50px;
+    display: inline-flex;
+    gap:1rem;
+    flex-wrap: nowrap;
+
+}
